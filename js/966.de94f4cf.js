@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkonline_exam_system"]=self["webpackChunkonline_exam_system"]||[]).push([[966],{1966:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var l=function(){var n=this,e=n._self._c;return e("div")},s=[],t={},r=t,i=u(1001),a=(0,i.Z)(r,l,s,!1,null,null,null),c=a.exports}}]);
+//# sourceMappingURL=966.de94f4cf.js.map
